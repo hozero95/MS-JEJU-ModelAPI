@@ -1,0 +1,1 @@
+필수 설치 패키지: pip install flask flask-cors tensorflow numpy pandas
