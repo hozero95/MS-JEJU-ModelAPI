@@ -7,6 +7,8 @@
 /dataSources/
 /dataSources.local.xml
 
+.idea
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,intellij,visualstudiocode,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,intellij,visualstudiocode,windows,macos
 
